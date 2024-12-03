@@ -1,7 +1,7 @@
 # Hi there! I'm Facundo Nicolas Gonzalez 👋
 
 ## 🎓 About Me
-26-year-old Information Systems student at the National University of Northeastern Argentina, passionate about software development and emerging technologies. I'm continuously exploring the intersection of innovation, programming, and problem-solving.
+Information Systems student at the National University of Northeastern Argentina, passionate about software development and emerging technologies. I'm continuously exploring the intersection of innovation, programming, and problem-solving.
 
 ## 🚀 Technical Skills
 ### Programming Languages
